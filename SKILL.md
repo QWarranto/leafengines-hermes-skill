@@ -263,8 +263,9 @@ Contaminants:
 ```
 
 ### Agricultural Intelligence
-Present the AI-generated response directly. Include the query context
-(county, crop type if specified) as a header line.
+Header: "Agricultural Intelligence — {county_name}, {state_code}"
+Then render the structured response fields (crops, planting schedule,
+recommendations, risk factors) from the API response.
 
 ### Plant Identification
 ```
