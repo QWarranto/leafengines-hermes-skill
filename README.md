@@ -1,5 +1,7 @@
 # LeafEngines Agricultural Intelligence — Hermes Skill
 
+> 🏆 **Global Startup Awards 2026 — North America Regional Nominee**
+
 Agricultural intelligence for Hermes agents — USDA soil analysis, EPA water quality,
 AI crop recommendations, plant identification, carbon credits, and environmental impact
 scoring for any US county.
